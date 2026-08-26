@@ -7,6 +7,14 @@ title: Building Data Dashboards
 
 ### A beginner's guide to building real, data-driven dashboard apps — taught by building one from scratch
 
+[![Read the book](https://img.shields.io/badge/📖_Read_the_book-ysharma--dev.github.io-blue)](https://ysharma-dev.github.io/building-data-dashboards/)
+
+**📖 Read it here: [ysharma-dev.github.io/building-data-dashboards](https://ysharma-dev.github.io/building-data-dashboards/)**
+
+This README (and every chapter file) also reads fine directly on GitHub —
+the link above just gets you the styled, navigable version with working
+prev/next links between chapters.
+
 ## What this book actually teaches
 
 This is **not** a book about one specific app. It's a book about a
