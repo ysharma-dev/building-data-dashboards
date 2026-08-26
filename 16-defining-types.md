@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 16 — Defining Types"
+nav_order: 17
+permalink: /16-defining-types/
+---
+
 # Chapter 16 — Defining Types
 
 **Skill:** modeling any external data source's entities as types *before*

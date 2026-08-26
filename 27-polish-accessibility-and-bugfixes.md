@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 27 — Polish, Accessibility, and Bugfixes"
+nav_order: 28
+permalink: /27-polish-accessibility-and-bugfixes/
+---
+
 # Chapter 27 — Polish, Accessibility, and Bugfixes
 
 **Skill:** a debugging mindset, and a short list of recurring bug *classes*

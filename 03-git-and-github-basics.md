@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 3 — Git and GitHub Basics"
+nav_order: 4
+permalink: /03-git-and-github-basics/
+---
+
 # Chapter 3 — Git and GitHub Basics
 
 Somewhere around Chapter 13, you'll start writing real files for your

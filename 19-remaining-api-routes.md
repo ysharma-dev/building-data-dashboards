@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 19 — The Remaining API Routes"
+nav_order: 20
+permalink: /19-remaining-api-routes/
+---
+
 # Chapter 19 — The Remaining API Routes
 
 **Skill:** recognizing when a new piece of code is "the same pattern again"

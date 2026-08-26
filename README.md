@@ -1,3 +1,8 @@
+---
+layout: default
+title: Building Data Dashboards
+---
+
 # Building Data Dashboards
 
 ### A beginner's guide to building real, data-driven dashboard apps — taught by building one from scratch

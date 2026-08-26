@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 4 — JavaScript Crash Course"
+nav_order: 5
+permalink: /04-javascript-crash-course/
+---
+
 # Chapter 4 — JavaScript Crash Course
 
 Every single piece of logic in the dashboard app you'll build — reading

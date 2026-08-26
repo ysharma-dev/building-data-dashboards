@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Appendix A — Running Without a Harness Account (Mock Data)"
+nav_order: 31
+permalink: /appendix-a-mock-data-fallback/
+---
+
 # Appendix A — Running Without a Harness Account (Mock Data)
 
 This appendix builds out the full mock-data path introduced in

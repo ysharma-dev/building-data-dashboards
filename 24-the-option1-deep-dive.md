@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 24 — The Option 1 Deep Dive"
+nav_order: 25
+permalink: /24-the-option1-deep-dive/
+---
+
 # Chapter 24 — The Option 1 Deep Dive
 
 **Skill:** building a "deep dive" analysis view — a more detailed, focused

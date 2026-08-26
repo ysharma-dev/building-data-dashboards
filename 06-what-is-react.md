@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 6 — What Is React?"
+nav_order: 7
+permalink: /06-what-is-react/
+---
+
 # Chapter 6 — What Is React?
 
 Every visible piece of the dashboard you'll build in this book — the filter

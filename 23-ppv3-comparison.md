@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 23 — The PPv3 Comparison"
+nav_order: 24
+permalink: /23-ppv3-comparison/
+---
+
 # Chapter 23 — The PPv3 Comparison
 
 **Skill:** segmenting one dataset into two comparable cohorts — "group A"

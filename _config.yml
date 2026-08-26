@@ -1,0 +1,25 @@
+title: Building Data Dashboards
+description: >-
+  A beginner's guide to building real, data-driven dashboard apps —
+  taught by building one from scratch, and learning to build any other.
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+
+relative_links:
+  enabled: true
+  collections: false
+
+readme_index:
+  with_frontmatter: true
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+exclude:
+  - "*.py"

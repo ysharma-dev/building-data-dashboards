@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 26 — Exporting a PDF Report"
+nav_order: 27
+permalink: /26-exporting-a-pdf-report/
+---
+
 # Chapter 26 — Exporting a PDF Report
 
 **Skill:** turning any on-screen view into a shareable, printable artifact

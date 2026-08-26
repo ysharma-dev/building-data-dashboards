@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 7 — What Is Next.js?"
+nav_order: 8
+permalink: /07-what-is-nextjs/
+---
+
 # Chapter 7 — What Is Next.js?
 
 React (Chapter 6) gives you components, but on its own, React doesn't

@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 13 — Project Setup"
+nav_order: 14
+permalink: /13-project-setup/
+---
+
 # Chapter 13 — Project Setup
 
 **Skill:** scaffolding a new modern web app project — using an official tool

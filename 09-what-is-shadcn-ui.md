@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 9 — What Is shadcn/ui?"
+nav_order: 10
+permalink: /09-what-is-shadcn-ui/
+---
+
 # Chapter 9 — What Is shadcn/ui?
 
 Building every single piece of interface — buttons, dropdowns, dialogs,

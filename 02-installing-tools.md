@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 2 — Installing Your Tools"
+nav_order: 3
+permalink: /02-installing-tools/
+---
+
 # Chapter 2 — Installing Your Tools
 
 Before you can build the dashboard app this book walks through, your

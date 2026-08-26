@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Appendix B — Troubleshooting"
+nav_order: 32
+permalink: /appendix-b-troubleshooting/
+---
+
 # Appendix B — Troubleshooting
 
 Common problems beginners hit while working through this book, organized

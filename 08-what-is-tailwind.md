@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 8 — What Is Tailwind CSS?"
+nav_order: 9
+permalink: /08-what-is-tailwind/
+---
+
 # Chapter 8 — What Is Tailwind CSS?
 
 React and Next.js (Chapters 6 and 7) are responsible for *what* appears on

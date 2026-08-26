@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 5 — TypeScript Crash Course"
+nav_order: 6
+permalink: /05-typescript-crash-course/
+---
+
 # Chapter 5 — TypeScript Crash Course
 
 The dashboard app in this book is written in TypeScript, not plain

@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 22 — Computing Metrics"
+nav_order: 23
+permalink: /22-computing-metrics/
+---
+
 # Chapter 22 — Computing Metrics
 
 **Skill:** turning a list of raw records into summary metrics — as actual,

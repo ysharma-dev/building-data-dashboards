@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 21 — Fetching and Displaying Executions"
+nav_order: 22
+permalink: /21-fetching-and-displaying-executions/
+---
+
 # Chapter 21 — Fetching and Displaying Executions
 
 **Skill:** the loading/error/data three-state pattern that every piece of

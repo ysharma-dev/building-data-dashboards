@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 17 — Talking to the Harness API"
+nav_order: 18
+permalink: /17-talking-to-the-harness-api/
+---
+
 # Chapter 17 — Talking to the Harness API
 
 **Skill:** writing a data-access layer — a small, dedicated module that is

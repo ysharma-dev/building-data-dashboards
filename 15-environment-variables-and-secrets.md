@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 15 — Environment Variables and Secrets"
+nav_order: 16
+permalink: /15-environment-variables-and-secrets/
+---
+
 # Chapter 15 — Environment Variables and Secrets
 
 **Skill:** connecting any app to any external API safely — keeping secret

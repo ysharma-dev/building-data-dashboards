@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 1 — Terminal Basics"
+nav_order: 2
+permalink: /01-terminal-basics/
+---
+
 # Chapter 1 — Terminal Basics
 
 Every chapter after this one is going to ask you to type a command into a

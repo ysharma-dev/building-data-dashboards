@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+{% assign chapters = site.pages | where_exp: "p", "p.nav_order" | sort: "nav_order" %}
+{% assign total = chapters.size %}
+{% assign idx = 0 %}
+{% for p in chapters %}
+  {% if p.url == page.url %}
+    {% assign idx = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+<nav style="margin-bottom: 2em; padding: 1em; background: #f6f8fa; border-radius: 6px; font-size: 0.95em;">
+  <a href="{{ '/' | relative_url }}">📖 Table of Contents</a>
+</nav>
+
+{{ content }}
+
+<hr>
+
+<div style="display: flex; justify-content: space-between; margin-top: 2em; font-size: 0.95em;">
+  <div>
+    {% if idx > 0 %}
+      {% assign prev = chapters[idx | minus: 1] %}
+      ← <a href="{{ prev.url | relative_url }}">{{ prev.title }}</a>
+    {% endif %}
+  </div>
+  <div>
+    {% assign next_idx = idx | plus: 1 %}
+    {% if next_idx < total %}
+      {% assign next = chapters[next_idx] %}
+      <a href="{{ next.url | relative_url }}">{{ next.title }}</a> →
+    {% endif %}
+  </div>
+</div>
+
+<nav style="margin-top: 2em; padding: 1em; background: #f6f8fa; border-radius: 6px; font-size: 0.95em;">
+  <a href="{{ '/' | relative_url }}">📖 Back to Table of Contents</a>
+</nav>

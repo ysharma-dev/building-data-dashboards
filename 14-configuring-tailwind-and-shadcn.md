@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 14 — Configuring Tailwind and shadcn"
+nav_order: 15
+permalink: /14-configuring-tailwind-and-shadcn/
+---
+
 # Chapter 14 — Configuring Tailwind and shadcn
 
 **Skill:** setting up a reusable design-token and component system at the

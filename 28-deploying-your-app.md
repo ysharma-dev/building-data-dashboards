@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 28 — Deploying Your App"
+nav_order: 29
+permalink: /28-deploying-your-app/
+---
+
 # Chapter 28 — Deploying Your App
 
 **Skill:** taking any Next.js app from "runs on my machine" to a real,

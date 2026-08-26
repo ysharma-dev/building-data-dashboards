@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Appendix C — Glossary"
+nav_order: 33
+permalink: /appendix-c-glossary/
+---
+
 # Appendix C — Glossary
 
 Every technical term used in this book, defined plainly, alphabetized. If

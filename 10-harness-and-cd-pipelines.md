@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 10 — Harness and CD Pipelines"
+nav_order: 11
+permalink: /10-harness-and-cd-pipelines/
+---
+
 # Chapter 10 — Harness and CD Pipelines
 
 ## Skill: reading an unfamiliar API's data model before you write a line of code

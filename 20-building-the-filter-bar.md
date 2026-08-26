@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 20 — Building the Filter Bar"
+nav_order: 21
+permalink: /20-building-the-filter-bar/
+---
+
 # Chapter 20 — Building the Filter Bar
 
 **Skill:** building a cascading filter UI for any hierarchical dataset —

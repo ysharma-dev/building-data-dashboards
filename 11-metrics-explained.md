@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 11 — Metrics, Explained"
+nav_order: 12
+permalink: /11-metrics-explained/
+---
+
 # Chapter 11 — Metrics, Explained
 
 ## Skill: turning a list of records into a handful of meaningful numbers

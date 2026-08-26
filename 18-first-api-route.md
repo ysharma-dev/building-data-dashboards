@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 18 — Your First API Route"
+nav_order: 19
+permalink: /18-first-api-route/
+---
+
 # Chapter 18 — Your First API Route
 
 **Skill:** understanding the full request path from a user's browser to a

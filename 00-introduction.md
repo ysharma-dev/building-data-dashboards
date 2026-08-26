@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 0 — Introduction"
+nav_order: 1
+permalink: /00-introduction/
+---
+
 # Chapter 0 — Introduction
 
 ## The goal isn't the app. It's what building the app teaches you.

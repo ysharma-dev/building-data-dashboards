@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 12 — The "Option 1" Optimization Story"
+nav_order: 13
+permalink: /12-the-option1-optimization-story/
+---
+
 # Chapter 12 — The "Option 1" Optimization Story
 
 ## Skill: turning a hypothesis into a measurable signal, and hunting down confounds

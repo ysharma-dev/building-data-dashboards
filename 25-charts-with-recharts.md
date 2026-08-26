@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 25 — Charts with Recharts"
+nav_order: 26
+permalink: /25-charts-with-recharts/
+---
+
 # Chapter 25 — Charts with Recharts
 
 **Skill:** the small set of composable chart-building blocks that cover the

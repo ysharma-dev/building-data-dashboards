@@ -1,3 +1,10 @@
+---
+layout: chapter
+title: "Chapter 29 — Building Your Own Dashboard"
+nav_order: 30
+permalink: /29-building-your-own-dashboard/
+---
+
 # Chapter 29 — Building Your Own Dashboard
 
 You've built a complete, real dashboard app — one that talks to a live
